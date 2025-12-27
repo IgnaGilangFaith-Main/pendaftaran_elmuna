@@ -2,7 +2,7 @@
 $hostname       = "localhost";
 $username       = "root";
 $password       = "";
-$database       = "elmuna";
+$database       = "pendaftaran_elmuna";
 
 $conn = new mysqli($hostname, $username, $password, $database);
 
